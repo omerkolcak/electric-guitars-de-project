@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+tmp/
+chromedriver.exe
+data-eng-env/
